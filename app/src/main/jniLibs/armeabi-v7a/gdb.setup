@@ -1,0 +1,6 @@
+set solib-search-path /Users/luis/Documents/workspace-tracking-sdk/android-tracking-sdk/obj/local/armeabi-v7a:/Users/luis/Documents/workspace-tracking-sdk/android-tracking-sdk/libs/armeabi-v7a
+directory /Users/luis/Apps/android-ndk-r9b/platforms/android-17/arch-arm/usr/include
+directory /Users/luis/Documents/workspace-tracking-sdk/android-tracking-sdk/src
+directory /Users/luis/Apps/android-ndk-r9b/sources/cxx-stl/system
+directory /Users/luis/Documents/workspace-tracking-sdk/android-tracking-sdk/libs/armeabi-v7a
+

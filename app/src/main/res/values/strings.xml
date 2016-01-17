@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CraftARprueba</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="finder_searching">Buscando</string>
+    <string name="recognition_only_tap">Realidad Aumentada</string>
+    <string name="recognition_only_toast_picture_error">Error al reconocer la imágen</string>
+    <string name="error_al_conectarse">Error al conectarse al servidor</string>
+    <string name="imagen_no_encontrada">Imágen no encontrada, por favor intenta de nuevo</string>
+    <string name="txt_scan">Código QR</string>
+
+</resources>
